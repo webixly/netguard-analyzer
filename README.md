@@ -16,10 +16,10 @@ A powerful Blue Team tool for analyzing network logs and detecting suspicious ac
 
 NetGuard Analyzer processes log files by:
 
-1. Parsing log entries to extract IP addresses, ports, and statuses
-2. Counting repeated failed attempts per IP
-3. Detecting unusual patterns (e.g., multiple ports targeted by a single IP)
-4. Assigning a risk level based on detected behavior
+1. Parsing log entries to extract IP addresses, ports, and statuses  
+2. Counting repeated failed attempts per IP  
+3. Detecting unusual patterns (e.g., multiple ports targeted by a single IP)  
+4. Assigning a risk level based on detected behavior  
 
 ---
 
