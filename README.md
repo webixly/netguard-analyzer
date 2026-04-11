@@ -4,7 +4,24 @@ A powerful Blue Team tool for analyzing network logs and detecting suspicious ac
 
 ---
 
+## 🎯 What This Tool Detects
 
+* Brute-force login attempts (repeated failed authentications)
+* Port scanning behavior (one IP targeting multiple ports)
+* Suspicious activity patterns in network logs
+
+---
+
+## 🧠 How It Works
+
+NetGuard Analyzer processes log files by:
+
+1. Parsing log entries to extract IP addresses, ports, and statuses
+2. Counting repeated failed attempts per IP
+3. Detecting unusual patterns (e.g., multiple ports targeted by a single IP)
+4. Assigning a risk level based on detected behavior
+
+---
 
 ## 🚀 Features
 
@@ -20,9 +37,11 @@ A powerful Blue Team tool for analyzing network logs and detecting suspicious ac
 ## 📸 Preview
 
 ### 🔹 Overview
+
 ![Overview](images/overview.png)
 
 ### 🔹 Detailed Analysis
+
 ![Details](images/details.png)
 
 ---
@@ -57,14 +76,25 @@ Port Scan Candidates: 1
 
 ---
 
+## 🧪 Example Scenario
+
+Given a log file containing multiple failed login attempts and unusual port activity, NetGuard Analyzer:
+
+* Identifies the most active IPs
+* Flags suspicious behavior
+* Detects potential port scans
+* Assigns a risk level (LOW / MEDIUM / HIGH)
+
+---
+
 ## 🚧 Status
 
 Version 1.0 – actively improving with:
 
 * CLI arguments
-* advanced detection rules
-* better reporting
-* real-world log support
+* Advanced detection rules
+* Better reporting
+* Real-world log support
 
 ---
 
