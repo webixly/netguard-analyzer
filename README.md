@@ -34,6 +34,15 @@ NetGuard Analyzer processes log files by:
 
 ---
 
+## 🌍 Real-World Use Case
+
+This tool can be used by system administrators and security teams to:
+
+- Analyze server authentication logs
+- Detect brute-force attacks in SSH or web services
+- Identify suspicious IP behavior in real-time logs
+- Investigate potential intrusion attempts
+
 ## 📸 Preview
 
 ### 🔹 Overview
