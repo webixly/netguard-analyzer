@@ -42,7 +42,7 @@ This tool can be used by system administrators and security teams to:
 - Detect brute-force attacks in SSH or web services
 - Identify suspicious IP behavior in real-time logs
 - Investigate potential intrusion attempts
-
+---
 ## 📸 Preview
 
 ### 🔹 Overview
