@@ -4,9 +4,7 @@ A powerful Blue Team tool for analyzing network logs and detecting suspicious ac
 
 ---
 
-## 📸 Preview
 
-![Preview](images/preview.png)
 
 ## 🚀 Features
 
@@ -21,7 +19,7 @@ A powerful Blue Team tool for analyzing network logs and detecting suspicious ac
 
 ## 📸 Preview
 
-*(Add screenshot here later)*
+![Preview](images/preview.png)
 
 ---
 
