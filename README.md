@@ -47,6 +47,7 @@ This tool can be used by system administrators and security teams to:
 ---
 ## 📸 Preview
 
+---
 ### 🔹 Overview
 
 ![Overview](images/overview.png)
