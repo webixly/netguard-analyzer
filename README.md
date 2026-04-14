@@ -4,6 +4,8 @@ A powerful Blue Team tool for analyzing network logs and detecting suspicious ac
 
 ---
 
+
+
 ## 🎯 What This Tool Detects
 
 * Brute-force login attempts (repeated failed authentications)
